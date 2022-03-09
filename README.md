@@ -13,6 +13,14 @@
 </div>
   
   
+  </div>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorFBX&theme=dark">
+  </div>
+  <h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=VictorFBX&theme=nord&column=7" >
+  
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
