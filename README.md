@@ -17,8 +17,6 @@
   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorFBX&theme=dark">
   </div>
-  <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=VictorFBX&theme=nord&column=7" >
   
   
   <div style="display: inline_block"><br>
@@ -27,7 +25,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/937165082327126087/951167317402857573/picasion.com_16745c0987e0e9f54c574ffcc6bd0655.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6c7189111130979.5ffc70ceeeab3.gif">
     
 
 </div>
