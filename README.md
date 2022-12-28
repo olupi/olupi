@@ -7,15 +7,15 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/VictorFBX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFBX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFBX&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/olupi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olupi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olupi&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
   </div>
   <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorFBX&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olupi&theme=dark">
   </div>
   
   
@@ -32,7 +32,7 @@
   
   ##
   
-![Snake animation](https://github.com/VictorFBX/VictorFBX/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/olupi/olupi/blob/output/github-contribution-grid-snake.svg)
 
   
   
